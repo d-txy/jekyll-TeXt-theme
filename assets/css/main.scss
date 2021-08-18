@@ -1,6 +1,5 @@
 ---
 ---
-
 @import
 
     "skins/{{ site.text_skin | default: site.data.variables.default.text_skin }}",
